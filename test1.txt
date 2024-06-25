@@ -1,0 +1,13 @@
+#!/bin/bash
+
+ls -l
+
+echo "my name is gaurav"
+
+
+name1=guarav and gaurav is sexy boy.
+
+name2=gaurav is not sexy boy.
+
+echo $name1
+echo $name2
